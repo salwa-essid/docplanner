@@ -1,0 +1,67 @@
+body{font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Arvo', serif;
+}
+.height{
+    min-height: 100rem;
+}
+.img-thumbnail{
+    width: 3rem;
+    height: 3rem;
+}
+.font-weight-bold{
+    color:#00ccb1;
+    font-size: 2rem
+}
+.font-weight-bolder{
+    color:#ababab;
+    font-size: 2rem
+}
+.nav-list{
+  
+   
+    list-style: none;
+    
+    
+}
+.active{
+    color:#00ccb1;
+    padding: 0 .6em;
+    text-decoration: none;
+}
+.pasive{
+    
+    color: #ababab;
+  
+    text-decoration: none;
+    padding: 0 .6em;
+}
+.display-6{
+    color:#00ccb1; 
+}
+
+.service-card-patients{
+   
+    overflow: hidden;
+    background-color: #00ccb1 !important;
+}
+.service-card-doctors{
+   
+    overflow: hidden;
+}
+
+.service-card-img{
+    left:12.5rem;
+ width: 25rem;
+ 
+}
+.service-card-imgg{
+    left:13rem;
+ width: 29rem;
+ margin-top: 1em;
+ padding: 1.375em 3.5em 0;
+  
+
+}
+#card{
+    background-color:#baddd8 !important;
+}
