@@ -7,6 +7,7 @@ body{font-family: 'Merriweather Sans', sans-serif;
 .img-thumbnail{
     width: 3rem;
     height: 3rem;
+    border: none;
 }
 .font-weight-bold{
     color:#00ccb1;
